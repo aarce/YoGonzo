@@ -100,7 +100,7 @@
       </div>
     </div>
 
-  </footer>
+  </footer><!--end of footer>
 
 
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
